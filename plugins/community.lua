@@ -7,11 +7,11 @@ return {
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.json" },
-  { import = "astrocommunity.colorscheme.nightfox", enabled = false },
-  { import = "astrocommunity.colorscheme.kanagawa", enabled = true },
+  { import = "astrocommunity.colorscheme.nightfox",      enabled = false },
+  { import = "astrocommunity.colorscheme.kanagawa",      enabled = true },
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.gruvbox" },
+  { import = "astrocommunity.colorscheme.gruvbox-baby" },
   {
     -- further customize the options set by the community
     "catppuccin",
