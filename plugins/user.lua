@@ -68,4 +68,15 @@ return {
       -- that has to pass before starting new render
     },
   },
+  {
+    "filipdutescu/renamer.nvim",
+    opts = {},
+    keys = {
+      {
+        "<leader>rn",
+        '<cmd>lua require("renamer").rename()<cr>',
+        desc = "Rename a variable",
+      },
+    },
+  },
 }
